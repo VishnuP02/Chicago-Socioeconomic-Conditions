@@ -1,12 +1,12 @@
-Scenario
+### Scenario
 In this project, I am hired by a non-profit organization to help analyze socioeconomic conditions, and identify insights to improve quality of education and reduce crime in the city of Chicago. My first task was to review several Chicago datasets and perform some exploratory analysis. I then put my newly acquired database and SQL skills to use to complete this assignment.
 
-Tasks: 
+### Tasks: 
 I. Download the datasets and become familiar with the data they contain.
 II. LOAD the datasets into a database.
 III. Analyze the data by composing and running SQL queries against the database.
 
-Problem Questions:
+### Problem Questions:
 1. Find the total number of crimes recorded in the CRIME table.
 2. Retrieve first 10 rows from the CRIME table.
 3. How many crimes involve an arrest?
